@@ -11,7 +11,7 @@ To generate the shared key the process goes as in diagram:
 
 Hence without actually sharing their secret keys they can communicate but there's a problem with this that it's vulnerable to Man In the middle Attack.So this is discused in this writeup/example
 
-[Lakshya-CTF](/Lakshya-CTF)
+[Lakshya-CTF](https://github.com/TeamUnderdawgs/Crypto-For-CTFs/tree/master/Diffie-hellman/Lakshya-CTF)
  
  
  
